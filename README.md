@@ -1,6 +1,4 @@
-# astro8-privacy
-
-Astro 8 Privacy Policy
+# Astro 8 Privacy Policy
 Last Updated: March 15, 2025
 
 We respect your privacy at Astro 8. We collect your birth date for natal charts and usage data for analytics. The "Share" feature uses your camera, microphone, and screen recording to create short videos, processed locally on your device. We do not store or transmit this data.
